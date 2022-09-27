@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any react projects**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at [coming soon]
 
 - 💬 Ask me about **frontend development and Anime!**
 
