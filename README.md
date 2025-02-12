@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nagasundar P</h1>
 <h3 align="center">A tech enthusiast</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, **Node** and **AWS**
 
-- 👯 I’m looking to collaborate on **any react projects**
-
-- 👨‍💻 All of my projects are available at [coming soon]
+- 👯 I’m looking to collaborate on **any react,node or data engineering projects**
 
 - 💬 Ask me about **frontend development and Anime!**
 
