@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagasundar P</h1>
-<h3 align="center">A tech enthusiast</h3>
+<h3 align="center">A Data Engineer</h3>
 
 - 🌱 I’m currently learning **React**, **Node** and **AWS**
 
