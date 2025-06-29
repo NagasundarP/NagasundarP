@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **any react,node or data engineering projects**
 
-- 💬 Ask me about **frontend development and Anime!**
+- 💬 We can always discuss about **development**
 
 - 📫 How to reach me **nagasundarp@gmail.com**
 
-- ⚡ Fun fact **I watch a lot of anime**
+- ⚡ Fun fact **I enjoy muay thai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
